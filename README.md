@@ -1,7 +1,7 @@
 In this project, I cleaned a dataset of supernovae to estimate the Hubble constant, which tells us how fast the
 universe is expanding.
 
-Technologies used
+Technologies used:
 Python , Jupyter notebook, Matplotlib, Pandas, NumPy, Astropy, Scipy
 
 Process
